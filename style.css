@@ -1,0 +1,25 @@
+body{
+        background-color: #F7F3EE
+    }
+h1{
+    color:#5C4B3B;
+}
+h4{
+    color:#927D68;
+}
+p{
+    color:#7A6A5A;
+}
+button{
+    background-color: #D8C3A5;
+    color:#5C4B3B;
+}
+textarea{
+    width:80%;
+    height: 200px;
+}
+button{
+    font-size: 18px;
+    padding: 6px 28px;
+    border-radius: 10px;
+}
